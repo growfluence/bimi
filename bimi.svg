@@ -9,10 +9,10 @@
   <title>Growfluence</title>
 
   <!-- Solid background - required for BIMI -->
-  <rect x="0" y="0" width="1000" height="1000" rx="180" ry="180" fill="#3a2a1a"/>
+  <rect x="0" y="0" width="1000" height="1000" rx="180" ry="180" fill="#1a1008"/>
 
   <!-- Terra accent circle top right -->
-  <circle cx="700" cy="220" r="55" fill="#b05a2a" opacity="0.5"/>
+  <circle cx="700" cy="220" r="55" fill="#e07040" opacity="0.5"/>
 
   <!-- G lettermark -->
   <text
@@ -22,9 +22,9 @@
     font-size="680"
     font-weight="700"
     font-style="italic"
-    fill="#b05a2a"
+    fill="#ffffff"
     text-anchor="middle">G</text>
 
   <!-- Thin underline accent -->
-  <rect x="280" y="760" width="440" height="12" rx="6" fill="#b05a2a" opacity="0.4"/>
+  <rect x="280" y="760" width="440" height="12" rx="6" fill="#e07040" opacity="0.4"/>
 </svg>
