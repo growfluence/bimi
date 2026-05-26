@@ -1,0 +1,2 @@
+# bimi
+bimi_image
